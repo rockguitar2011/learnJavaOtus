@@ -2,7 +2,7 @@ package firstApp;
 
 public class Test {
     public static void main(String[] args) {
-        String x = "Hello world";
+        String x = "Привет";
         System.out.println(x);
     }
 }
